@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://pedantic-gates-9f615a.netlify.com/]()
+* Link to the website deployed on Netlify : [https://app.netlify.com/sites/pedantic-gates-9f615a/overview]()
